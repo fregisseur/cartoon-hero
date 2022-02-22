@@ -39,7 +39,7 @@ var layer_list = [
 		'opacity': 1
 	},
 	{
-		'image': clouds,
+		'image': animals,
 		'src': './img/layer_2_1.png',
 		'z_index': -2,
 		'position': {x: 0, y: 0},
@@ -47,27 +47,27 @@ var layer_list = [
 		'opacity': 1
 	},
 	{
-		'image': floaties_1,
+		'image': plant_1,
 		'src': './img/layer_3_1.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
-		'blend': 'overlay',
+		'blend': null,
 		'opacity': 1
 	},
 	{
-		'image': floaties_2,
+		'image': plant_2,
 		'src': './img/layer_4_1.png',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
-		'blend': 'overlay',
+		'blend': null,
 		'opacity': 1
 	},
 	{
-		'image': shadows,
+		'image': plant_3,
 		'src': './img/layer_5_1.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
-		'blend': 'multiply',
+		'blend': null,
 		'opacity': 0.75
 	},
 	{
@@ -79,7 +79,7 @@ var layer_list = [
 		'opacity': 1
 	},
 	{
-		'image': humans,
+		'image': naam,
 		'src': './img/layer_7_1.png',
 		'z_index': 0.8,
 		'position': {x: 0, y: 0},
@@ -87,7 +87,7 @@ var layer_list = [
 		'opacity': 1
 	},
 	{
-		'image': floaties_3,
+		'image': floaties,
 		'src': './img/layer_8_1.png',
 		'z_index': 2,
 		'position': {x: 0, y: 0},
