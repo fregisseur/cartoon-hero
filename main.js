@@ -33,7 +33,7 @@ var layer_list = [
 	{
 		'image': background,
 		'src': './img/layer_1_1.png',
-		'z_index': -2.25,
+		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
@@ -41,7 +41,7 @@ var layer_list = [
 	{
 		'image': animals,
 		'src': './img/layer_2_1.png',
-		'z_index': -2,
+		'z_index': -1,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
@@ -49,7 +49,7 @@ var layer_list = [
 	{
 		'image': plant_1,
 		'src': './img/layer_3_1.png',
-		'z_index': -1.25,
+		'z_index': -0.75,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
@@ -65,7 +65,7 @@ var layer_list = [
 	{
 		'image': plant_3,
 		'src': './img/layer_5_1.png',
-		'z_index': -1.25,
+		'z_index': -0.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 0.75
@@ -81,7 +81,7 @@ var layer_list = [
 	{
 		'image': naam,
 		'src': './img/layer_7_1.png',
-		'z_index': 0.8,
+		'z_index': 1,
 		'position': {x: 0, y: 0},
 		'blend': null,
 		'opacity': 1
