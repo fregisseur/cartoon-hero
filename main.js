@@ -13,13 +13,13 @@ var load_counter = 0;
 
 // Initialize images for layers
 var background = new Image();
-var shadows = new Image();
-var clouds = new Image();
-var floaties_1 = new Image();
-var floaties_2 = new Image();
+var animals = new Image();
+var plant_1 = new Image();
+var plant_2 = new Image();
+var plant_3 = new Image();
 var mask = new Image();
-var humans = new Image();
-var floaties_3 = new Image();
+var naam = new Image();
+var floaties = new Image();
 
 // Create a list of layer objects
 // Each object contains the following:
